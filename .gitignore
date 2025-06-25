@@ -1,0 +1,15 @@
+# Ignore Python cache and venv
+__pycache__/
+*.py[cod]
+.venv/
+
+# Ignore PyInstaller build files
+build/
+*.spec
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore other OS/IDE files
+.DS_Store
+Thumbs.db
